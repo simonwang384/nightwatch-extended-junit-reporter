@@ -1,0 +1,31 @@
+{
+  "name": "nightwatch-extended-junit-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonwang384/nightwatch-extended-junit-reporter.gits"
+  },
+  "bugs": {
+    "url": "https://github.com/simonwang384/nightwatch-extended-junit-reporter.gits/issues"
+  },
+  "homepage": "https://github.com/simonwang384/nightwatch-extended-junit-reporter.gits#readme",
+  "keywords": [
+    "Nightwatch.js",
+    "nightwatch",
+    "SauceLabs",
+    "selenium"
+  ],
+  "files": ["src"],
+  "peerDependencies": {
+    "nightwatch": ">= 2.6"
+  },
+  "author": "Simon Wang",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "3.1.9",
+    "strip-ansi": "6.0.1"
+  }
+}
