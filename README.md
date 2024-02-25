@@ -4,6 +4,8 @@ This Nightwatch reporter is a extension of the base JUnit reporter. It includes 
 
 > If you use this reporter do not use the base JUnit reporter included with Nightwatch.
 
+You can see and example JUnit report in the [examples](https://github.com/simonwang384/nightwatch-extended-junit-reporter/blob/main/examples/) folder.
+
 ## Installation
 
 ```sh
