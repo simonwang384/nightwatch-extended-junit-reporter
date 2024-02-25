@@ -6,12 +6,12 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/simonwang384/nightwatch-extended-junit-reporter.gits"
+    "url": "git+https://github.com/simonwang384/nightwatch-extended-junit-reporter"
   },
   "bugs": {
-    "url": "https://github.com/simonwang384/nightwatch-extended-junit-reporter.gits/issues"
+    "url": "https://github.com/simonwang384/nightwatch-extended-junit-reporter/issues"
   },
-  "homepage": "https://github.com/simonwang384/nightwatch-extended-junit-reporter.gits#readme",
+  "homepage": "https://github.com/simonwang384/nightwatch-extended-junit-reporter#readme",
   "keywords": [
     "Nightwatch.js",
     "nightwatch",
