@@ -1,6 +1,6 @@
 {
   "name": "nightwatch-extended-junit-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {},
@@ -18,7 +18,9 @@
     "SauceLabs",
     "selenium"
   ],
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "peerDependencies": {
     "nightwatch": ">= 2.6"
   },
